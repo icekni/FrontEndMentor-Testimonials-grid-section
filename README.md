@@ -23,6 +23,7 @@ Users should be able to:
 ### Screenshot
 
 - Mobile view
+
 ![](https://github.com/icekni/FrontEndMentor-Testimonials-grid-section/blob/main/screenshot-mobile.png)
 
 - Desktop view
