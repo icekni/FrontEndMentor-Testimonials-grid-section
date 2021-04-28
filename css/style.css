@@ -96,6 +96,7 @@ article:first-of-type {
 
 .testimonial_content {  
   opacity: 70%;
+  padding-top: 1rem;
 }
 
 @media (min-width: 1024px) {
