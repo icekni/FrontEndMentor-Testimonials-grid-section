@@ -25,7 +25,8 @@ Users should be able to:
 - Mobile view
 ![](https://github.com/icekni/FrontEndMentor-Testimonials-grid-section/blob/main/screenshot-mobile.png)
 
--Desktop view
+- Desktop view
+
 ![](https://github.com/icekni/FrontEndMentor-Testimonials-grid-section/blob/main/screenshot-desktop.png)
 
 ### Links
