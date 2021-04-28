@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live demo: [https://testimonial.cedric-josso.net](https://testimonial.cedric-josso.net)
+- Live demo: [https://integrations.cedric-josso.net/testimonial/](https://integrations.cedric-josso.net/testimonial/)
 
 ## My process
 
