@@ -10,11 +10,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,14 +23,16 @@ Users should be able to:
 ### Screenshot
 
 - Mobile view
-![](./screenshot-mobile.jpg)
 
--Desktop view
-![](./screenshot-desktop.jpg)
+![](https://github.com/icekni/FrontEndMentor-Testimonials-grid-section/blob/main/screenshot-mobile.png)
+
+- Desktop view
+
+![](https://github.com/icekni/FrontEndMentor-Testimonials-grid-section/blob/main/screenshot-desktop.png)
 
 ### Links
 
-- Live demo: [https://testimonial.cedric-josso.net](https://testimonial.cedric-josso.net)
+- Live demo: [https://integrations.cedric-josso.net/testimonial/](https://integrations.cedric-josso.net/testimonial/)
 
 ## My process
 
